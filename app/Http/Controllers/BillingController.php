@@ -6,5 +6,8 @@ use Illuminate\Http\Request;
 
 class BillingController extends Controller
 {
-    //
+    public function index()
+    {
+
+    }
 }
